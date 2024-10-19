@@ -1,5 +1,5 @@
 
-# Thyroid Disease Detection Using Machine Learning
+# ThyroCare: AI-Powered Detection
 
 This project involves developing a machine learning model to detect thyroid disease based on various patient features. Thyroid diseases, such as hyperthyroidism and hypothyroidism, can have significant health impacts if left undiagnosed. The project includes data preprocessing, feature selection, and the application of machine learning algorithms to classify whether a patient has a thyroid condition. The goal is to provide a reliable and efficient diagnostic tool to assist healthcare professionals in identifying thyroid disorders early, leading to better patient outcomes.
 ## Author
